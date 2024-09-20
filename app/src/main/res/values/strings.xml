@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">sharedPreferences</string>
     <string name="save_btn">Guardar</string>
     <string name="load_btn">Ver</string>
     <string name="et_hint">Ingrese su nombre</string>
